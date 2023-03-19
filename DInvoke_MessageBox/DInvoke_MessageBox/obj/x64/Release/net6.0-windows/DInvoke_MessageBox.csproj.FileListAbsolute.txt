@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\x64\Release\net6.0-windows\DInvoke_MessageBox.exe
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\x64\Release\net6.0-windows\DInvoke_MessageBox.deps.json
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\x64\Release\net6.0-windows\DInvoke_MessageBox.runtimeconfig.json
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\x64\Release\net6.0-windows\DInvoke_MessageBox.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\x64\Release\net6.0-windows\DInvoke_MessageBox.pdb
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\x64\Release\net6.0-windows\DInvoke.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.AssemblyInfo.cs
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.csproj.CopyComplete
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\refint\DInvoke_MessageBox.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.pdb
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\DInvoke_MessageBox.genruntimeconfig.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\x64\Release\net6.0-windows\ref\DInvoke_MessageBox.dll

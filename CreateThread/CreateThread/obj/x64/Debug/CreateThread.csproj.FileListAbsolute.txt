@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\CreateThread\CreateThread\bin\x64\Debug\CreateThread.exe.config
+C:\Users\User\source\repos\CreateThread\CreateThread\bin\x64\Debug\CreateThread.exe
+C:\Users\User\source\repos\CreateThread\CreateThread\bin\x64\Debug\CreateThread.pdb
+C:\Users\User\source\repos\CreateThread\CreateThread\obj\x64\Debug\CreateThread.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CreateThread\CreateThread\obj\x64\Debug\CreateThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CreateThread\CreateThread\obj\x64\Debug\CreateThread.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CreateThread\CreateThread\obj\x64\Debug\CreateThread.exe
+C:\Users\User\source\repos\CreateThread\CreateThread\obj\x64\Debug\CreateThread.pdb

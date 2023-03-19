@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\bin\Debug\net6.0\PInvoke_CreateProcess.exe
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\bin\Debug\net6.0\PInvoke_CreateProcess.deps.json
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\bin\Debug\net6.0\PInvoke_CreateProcess.runtimeconfig.json
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\bin\Debug\net6.0\PInvoke_CreateProcess.dll
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\bin\Debug\net6.0\PInvoke_CreateProcess.pdb
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.AssemblyInfo.cs
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.dll
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\refint\PInvoke_CreateProcess.dll
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.pdb
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\PInvoke_CreateProcess.genruntimeconfig.cache
+C:\Users\User\source\repos\PInvoke_CreateProcess\PInvoke_CreateProcess\obj\Debug\net6.0\ref\PInvoke_CreateProcess.dll

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\bin\x64\Debug\QueueUserAPC.exe.config
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\bin\x64\Debug\QueueUserAPC.exe
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\bin\x64\Debug\QueueUserAPC.pdb
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\obj\x64\Debug\QueueUserAPC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\obj\x64\Debug\QueueUserAPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\obj\x64\Debug\QueueUserAPC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\obj\x64\Debug\QueueUserAPC.exe
+C:\Users\User\source\repos\QueueUserAPC\QueueUserAPC\obj\x64\Debug\QueueUserAPC.pdb

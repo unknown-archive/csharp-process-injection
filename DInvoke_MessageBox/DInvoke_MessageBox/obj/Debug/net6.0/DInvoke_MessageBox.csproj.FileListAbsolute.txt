@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\Debug\net6.0\DInvoke_MessageBox.exe
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\Debug\net6.0\DInvoke_MessageBox.deps.json
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\Debug\net6.0\DInvoke_MessageBox.runtimeconfig.json
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\Debug\net6.0\DInvoke_MessageBox.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\Debug\net6.0\DInvoke_MessageBox.pdb
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\bin\Debug\net6.0\DInvoke.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.AssemblyInfo.cs
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.csproj.CopyComplete
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\refint\DInvoke_MessageBox.dll
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.pdb
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\DInvoke_MessageBox.genruntimeconfig.cache
+C:\Users\User\source\repos\DInvoke_MessageBox\DInvoke_MessageBox\obj\Debug\net6.0\ref\DInvoke_MessageBox.dll

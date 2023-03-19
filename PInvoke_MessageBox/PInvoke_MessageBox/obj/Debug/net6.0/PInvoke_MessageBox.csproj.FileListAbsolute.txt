@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\bin\Debug\net6.0\PInvoke_MessageBox.exe
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\bin\Debug\net6.0\PInvoke_MessageBox.deps.json
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\bin\Debug\net6.0\PInvoke_MessageBox.runtimeconfig.json
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\bin\Debug\net6.0\PInvoke_MessageBox.dll
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\bin\Debug\net6.0\PInvoke_MessageBox.pdb
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.AssemblyInfo.cs
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.dll
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\refint\PInvoke_MessageBox.dll
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.pdb
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\PInvoke_MessageBox.genruntimeconfig.cache
+C:\Users\User\source\repos\PInvoke_MessageBox\PInvoke_MessageBox\obj\Debug\net6.0\ref\PInvoke_MessageBox.dll

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\bin\x64\Debug\NtMapViewOfSection.exe.config
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\bin\x64\Debug\NtMapViewOfSection.exe
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\bin\x64\Debug\NtMapViewOfSection.pdb
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\obj\x64\Debug\NtMapViewOfSection.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\obj\x64\Debug\NtMapViewOfSection.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\obj\x64\Debug\NtMapViewOfSection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\obj\x64\Debug\NtMapViewOfSection.exe
+C:\Users\User\source\repos\NtMapViewOfSection\NtMapViewOfSection\obj\x64\Debug\NtMapViewOfSection.pdb

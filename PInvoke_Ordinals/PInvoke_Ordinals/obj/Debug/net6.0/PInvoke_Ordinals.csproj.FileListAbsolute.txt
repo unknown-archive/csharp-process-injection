@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\bin\Debug\net6.0\PInvoke_Ordinals.exe
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\bin\Debug\net6.0\PInvoke_Ordinals.deps.json
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\bin\Debug\net6.0\PInvoke_Ordinals.runtimeconfig.json
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\bin\Debug\net6.0\PInvoke_Ordinals.dll
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\bin\Debug\net6.0\PInvoke_Ordinals.pdb
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.AssemblyInfo.cs
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.dll
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\refint\PInvoke_Ordinals.dll
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.pdb
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\PInvoke_Ordinals.genruntimeconfig.cache
+C:\Users\User\source\repos\PInvoke_Ordinals\PInvoke_Ordinals\obj\Debug\net6.0\ref\PInvoke_Ordinals.dll
